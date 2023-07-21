@@ -1,0 +1,15 @@
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\bin\Debug\net6.0\RemovesFirstAndLast.exe
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\bin\Debug\net6.0\RemovesFirstAndLast.deps.json
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\bin\Debug\net6.0\RemovesFirstAndLast.runtimeconfig.json
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\bin\Debug\net6.0\RemovesFirstAndLast.dll
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\bin\Debug\net6.0\RemovesFirstAndLast.pdb
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.csproj.AssemblyReference.cache
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.GeneratedMSBuildEditorConfig.editorconfig
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.AssemblyInfoInputs.cache
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.AssemblyInfo.cs
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.csproj.CoreCompileInputs.cache
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.dll
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\refint\RemovesFirstAndLast.dll
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.pdb
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\RemovesFirstAndLast.genruntimeconfig.cache
+D:\RemoveFirstAndLast\RemoveFirstAndLast\RemovesFirstAndLast\obj\Debug\net6.0\ref\RemovesFirstAndLast.dll
